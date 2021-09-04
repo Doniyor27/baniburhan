@@ -57,6 +57,18 @@
     .author-bio h5 {
         margin-left: 70px;
     }
+
+    .fnz-26 {
+        font-size: 24px;
+    }
+    .fnz-20 {
+        font-size: 18px;
+    }
+
+    .mapp {
+        width: 100%;
+        height: 320px; 
+    }
 }
 
 /*============================================================
@@ -158,6 +170,20 @@
 	/* singla blog page */
     .author-social {
         margin-left: 0;
+    }
+
+
+    .fnz-26 {
+        font-size: 22px;
+    }
+    .fnz-20 {
+        font-size: 16px;
+    }
+
+    .mapp {
+        width: 100%;
+        height: 300px;
+        margin-top: 30px; 
     }
 }
 
@@ -394,6 +420,18 @@
     .author-avatar {
         margin-right: 10px;
     }
+
+    .fnz-26 {
+        font-size: 20px;
+    }
+    .fnz-20 {
+        font-size: 14px;
+    }
+
+    .mapp {
+        width: 100%;
+        height: 280px; 
+    }
 }
 
 
@@ -517,5 +555,17 @@
 	/* blog page */
     .tab-post-nav li a {
         padding: 10px 15px;
+    }
+
+    .fnz-26 {
+        font-size: 18px;
+    }
+    .fnz-20 {
+        font-size: 12px;
+    }
+
+    .mapp {
+        width: 100%;
+        height: 250px; 
     }
 }

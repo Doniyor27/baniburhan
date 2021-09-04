@@ -1610,7 +1610,46 @@ blockquote {
 .form-group:last-child input {
   margin: 0;
 }
-  
+
+.fnz-26 {
+    font-size: 26px;
+}
+.fnz-20 {
+    font-size: 20px;
+}
+
+.mapp {
+    width: 100%;
+    height: 350px; 
+}
+
+@keyframes lampone {
+    0% {
+      -webkit-transform: translateY(
+    5px
+    );
+        transform: translateY(
+    5px
+    );
+  }
+
+  100% {
+    -webkit-transform: translateY(
+  -2px
+  );
+    transform: translateY(
+  -2px
+  );
+  }
+}
+
+.swipe {
+    margin-top: 100px;
+    max-width: 50px;
+    -webkit-animation: lampone 1s ease-in-out 1s infinite alternate;
+    animation: lampone 1s ease-in-out 1s infinite alternate;
+}
+
 /* 
 #ascrail2000 {
     display: none !important;
