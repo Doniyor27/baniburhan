@@ -456,6 +456,7 @@ h1, h2, h3, h4, h5, h6 {
     border-left: 1px solid #4e595f;
     border-top: 1px solid #4e595f;
     margin-bottom: 40px;
+    height: 350px;
 	
 	-webkit-box-shadow:2px 2px 5px rgba(44, 44, 44, .3), 13px 13px 0 rgba(256, 256, 256, .7);
 	   -moz-box-shadow:2px 2px 5px rgba(44, 44, 44, .3), 13px 13px 0 rgba(256, 256, 256, .7);

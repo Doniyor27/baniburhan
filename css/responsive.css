@@ -75,6 +75,10 @@
 	.timeline .note:nth-of-type(2n):after {
 		left: -7.5%;
 	}
+
+    .service-block {
+        height: 330px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
@@ -134,6 +138,7 @@
 .service-block {
   margin: 0 auto 40px;
   width: 95%;
+  height: 300px;
 }
 .team-mate {
   margin: 0 auto 30px;
@@ -311,6 +316,7 @@
         width: 90%;
         position: relative;
         left: -8px;
+        height: 280px;
     }	
 	.team-mate {
 		margin: 0 auto 31px;
@@ -497,6 +503,7 @@
     .service-block {
         margin: 0 auto 40px;
         width: 65%;
+        height: 250px;
     }
     .team-mate {
         margin: 0 auto 30px;
