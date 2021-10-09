@@ -1651,6 +1651,16 @@ blockquote {
     animation: lampone 1s ease-in-out 1s infinite alternate;
 }
 
+.interior {
+    max-width: 71px;
+    max-height: 60px;
+}
+
+
+.painting {
+    max-height: 70px;
+}
+
 /* 
 #ascrail2000 {
     display: none !important;
